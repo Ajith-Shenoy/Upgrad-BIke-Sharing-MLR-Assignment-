@@ -1,4 +1,4 @@
-# Upgrad - BIke Sharing  Multiple Linear Regression Assignment 
+# Upgrad - Bike Sharing  Multiple Linear Regression Assignment 
  **submisson for MLR assignment from upgrad IITB, by Ajith Shenoy**
 
 ## Problem Statement
